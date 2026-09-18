@@ -1,1 +1,1 @@
-why can i genuinely not change the name of this github is so ass why do i need to verify using my github account I LITERALLY LOST ACCESS TO IT (because my dumbahh switched to linux and i took to long to transfer cookies so it expired so im using gh auth to do this rn)
+## why can i genuinely not change the name of this github is so ass why do i need to verify using my github account I LITERALLY LOST ACCESS TO IT (because my dumbahh switched to linux and i took to long to transfer cookies so it expired so im using gh auth to do this rn)
